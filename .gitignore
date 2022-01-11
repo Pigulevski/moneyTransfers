@@ -1,6 +1,3 @@
-# Project exclude paths
-/.gradle/
-/build/
 Thumbs.db*
 .DS_Store*
 HELP.md
